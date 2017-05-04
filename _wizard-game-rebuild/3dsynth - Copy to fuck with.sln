@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dsynth - Copy to fuck with.CSharp.Plugins", "3dsynth - Copy to fuck with.CSharp.Plugins.csproj", "{7254E624-DE8D-E2CF-8E61-A96B42987EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dsynth - Copy to fuck with.CSharp", "3dsynth - Copy to fuck with.CSharp.csproj", "{C1BCA1B5-847A-1EEF-5A53-185AC617A22E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dsynth - Copy to fuck with.CSharp.Editor", "3dsynth - Copy to fuck with.CSharp.Editor.csproj", "{DC3A84B2-FA03-7172-AE39-662F2DE0BB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7254E624-DE8D-E2CF-8E61-A96B42987EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7254E624-DE8D-E2CF-8E61-A96B42987EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7254E624-DE8D-E2CF-8E61-A96B42987EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7254E624-DE8D-E2CF-8E61-A96B42987EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BCA1B5-847A-1EEF-5A53-185AC617A22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BCA1B5-847A-1EEF-5A53-185AC617A22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BCA1B5-847A-1EEF-5A53-185AC617A22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BCA1B5-847A-1EEF-5A53-185AC617A22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3A84B2-FA03-7172-AE39-662F2DE0BB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3A84B2-FA03-7172-AE39-662F2DE0BB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3A84B2-FA03-7172-AE39-662F2DE0BB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3A84B2-FA03-7172-AE39-662F2DE0BB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

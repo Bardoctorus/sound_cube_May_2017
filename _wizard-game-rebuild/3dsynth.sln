@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dsynth.CSharp.Plugins", "3dsynth.CSharp.Plugins.csproj", "{89C27CDE-9337-27AC-6EA3-79B60F3E9F41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dsynth.CSharp", "3dsynth.CSharp.csproj", "{C1480A8B-F52B-CAD7-9D84-F653123A47A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dsynth.CSharp.Editor", "3dsynth.CSharp.Editor.csproj", "{58F2F3F1-B956-B544-5616-8E0488C9C700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C27CDE-9337-27AC-6EA3-79B60F3E9F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C27CDE-9337-27AC-6EA3-79B60F3E9F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C27CDE-9337-27AC-6EA3-79B60F3E9F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C27CDE-9337-27AC-6EA3-79B60F3E9F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1480A8B-F52B-CAD7-9D84-F653123A47A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1480A8B-F52B-CAD7-9D84-F653123A47A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1480A8B-F52B-CAD7-9D84-F653123A47A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1480A8B-F52B-CAD7-9D84-F653123A47A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F2F3F1-B956-B544-5616-8E0488C9C700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F2F3F1-B956-B544-5616-8E0488C9C700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F2F3F1-B956-B544-5616-8E0488C9C700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F2F3F1-B956-B544-5616-8E0488C9C700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
